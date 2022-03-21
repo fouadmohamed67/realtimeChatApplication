@@ -14,4 +14,9 @@
 -->reltime in sending message<br>
 -->get notify of new messages<br>
 -->get notify when someone is online<br>
+## langusges
+-->laravel framework<br>
+-->html,css,bootsstrap<br>
+-->nodejs<br>
+-->jquery<br>
  
