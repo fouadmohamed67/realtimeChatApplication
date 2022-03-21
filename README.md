@@ -8,10 +8,10 @@
 </p>
 
 ## About application
--->you can regitser and login 
--->you can add friend and chose with which one u will chat
--->can see which friend is online or offline
--->reltime in sending message
--->get notify of new messages
--->get notify when someone is online
+-->you can regitser and login <br>
+-->you can add friend and chose with which one u will chat<br>
+-->can see which friend is online or offline<br>
+-->reltime in sending message<br>
+-->get notify of new messages<br>
+-->get notify when someone is online<br>
  
