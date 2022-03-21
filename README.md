@@ -7,5 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About application
+-->you can regitser and login 
+-->you can add friend and chose with which one u will chat
+-->can see which friend is online or offline
+-->reltime in sending message
+-->get notify of new messages
+-->get notify when someone is online
  
